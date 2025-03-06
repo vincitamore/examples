@@ -4,6 +4,9 @@ The first [dev plan][original] was generated from this prompt:
 And the [completed dev plan][completed] is the same file after starting a new chat with the prequisite files along with the plan added into the context and prompted thusly:
 >Please proceed with following dev-plan step by step beginning at step 1, making sure to update/summarize the plan with your progress as you go along
 
+> [!NOTE}
+>As you'll notice if you pay attention this has an additional 4 steps the original doesn't, which represent me needing to adjust a few things that were missed or went a bit wonkly from intentions
+
 And then the [summary][summary] was made with the following prompt after testing and verifying the final completed steps of the dev plan
 >Awesome, you did great, it's working almost perfect! Before we continue I would like you to examine all the changes we've made and make summary.md with a full breakdown of the key places in the code where to sizing and formatting are happening with process flows and tree diagrams, Keep it as concise and informationally dense as possible while leaving nothing out
 
